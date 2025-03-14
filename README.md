@@ -1,8 +1,10 @@
 # 🦠 Análisis Global COVID-19 2021
 
-<p align="center">
-  <img src="fotos/banner-covid.png" alt="COVID-19 Analysis Banner" width="800"/>
-</p>
+<div align="center">
+  
+![COVID-19](https://img.shields.io/badge/COVID--19-Análisis%20Global%202021-red?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+
+</div>
 
 ## 📊 Resumen del Proyecto
 
@@ -105,11 +107,13 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambi
 
 ## 📫 Contacto
 
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Moura-EB3324?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-moura-analyst/)
-</br>
-[![Email](https://img.shields.io/badge/Email-alex%5Fgomes10%40hotmail.com-16417C?style=for-the-badge&labelColor=101010)](mailto:alex_gomes10@hotmail.com)
-</br>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Moura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-moura-analyst/)
+
+[![Email](https://img.shields.io/badge/Email-alex__gomes10%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex_gomes10@hotmail.com)
+
+</div>
 
 ## 📜 Licencia
 
